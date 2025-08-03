@@ -1,0 +1,5 @@
+This code have a class that can send customized https request
+
+To compile the code use "g++ HFT.cpp -o HFT -lssl -lcrypto"
+
+This cmmand link the openssl libarary with the program
